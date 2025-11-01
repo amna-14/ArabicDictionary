@@ -1,0 +1,6 @@
+com\dictionary\bo\WordBO.class
+com\dictionary\dao\WordDAO.class
+com\dictionary\ui\WordPresentation.class
+com\dictionary\dao\IWordDAO.class
+com\dictionary\dto\WordDTO.class
+com\dictionary\sql\DBConnection.class
